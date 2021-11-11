@@ -2,4 +2,4 @@
 Udacity Digital Marketing
 Achieved Certificate
 
-https://github.com/mohamedabuemira/Digital-Marketing-Nanodegree-master/blob/c23b47b35f55668dbc4f5ab453ca1f619ed91ac5/Digital%20Marketing%20Professional.pdf
+![image](https://user-images.githubusercontent.com/54208500/141325643-ea9405df-d9a9-4d7b-857e-a09bab593424.png)
